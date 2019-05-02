@@ -4,7 +4,7 @@ function countBs(a) {
   console.log(countChar(a, 'B'));
 }
 
-
+// function countChar counts the "n"s in "beancounting".
 
 function countChar(string, ca) {
   let count = 0;
