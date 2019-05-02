@@ -1,4 +1,4 @@
-// A recursive function, isEven, accepts a single parameter (a positive, whole number) and returns a Boolean
+// A recursive function, isEven, accepts a single parameter (a positive, whole number) and returns a Boolean.
 
 function isEven(a) {
   if (a % 2 == 0) {
