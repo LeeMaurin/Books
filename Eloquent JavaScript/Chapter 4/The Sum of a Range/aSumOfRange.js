@@ -11,7 +11,8 @@ function rangeList(a, b) {
 
 rangeList(1, 10);
 
-// Part 2 - Next, write a sum function that takes an array of numbers and returns the sum of these numbers. Run the example program and see whether it does indeed return 55.
+// Part 2 - Next, write a sum function that takes an array of numbers and returns 
+// the sum of these numbers. Run the example program and see whether it does indeed return 55.
 
 function rangeSum(a, b) {
   let rangeSum = 0;
