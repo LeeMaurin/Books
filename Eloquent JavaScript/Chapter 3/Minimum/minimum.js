@@ -1,4 +1,4 @@
-// The function min takes two arguments and returns their minimum.
+// The function "min" takes two arguments and returns their minimum.
 
 function min(a, b) {
   var minestNumber = Math.min(a, b);
