@@ -1,4 +1,5 @@
-// Part 1 - Write a range function that takes two arguments, start and end, and returns an array containing all the numbers from start up to (and including) end.
+// Part 1 - Write a range function that takes two arguments, start and end, and 
+// returns an array containing all the numbers from start up to (and including) end.
 
 function rangeList(a, b) {
   let rangeOutput = [];
